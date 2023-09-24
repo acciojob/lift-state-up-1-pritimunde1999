@@ -1,1 +1,10 @@
+.parent{
+    background-color: #7D26DE;
+}
 
+.child{
+    background-color: #9B2221;
+    margin-bottom: 20px;
+    margin: 10px;
+    
+}
